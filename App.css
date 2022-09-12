@@ -1,0 +1,13 @@
+body{
+    background-color: #DAEEFC ;
+  }
+  
+  .view{
+     margin: 20px;
+     margin-left: 350px; 
+     position: relative;
+     height: 575px;
+     border-radius: 25px;  
+     background-color: white;
+     width: 1010px;
+  }
